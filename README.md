@@ -1,4 +1,4 @@
-# Strategy Analysis of AI in the Healthcare Industry
+# Strategy Analysis of Artificial Intelligence in the Healthcare Industry
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-completed-brightgreen" />
