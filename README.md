@@ -39,7 +39,7 @@ The report studies:
 9. Results & Conclusion
 
 ## 📄 Full Report  
-👉 [**Download / Read the PDF**](./Strategic%20Analysis%20of%20AI%20in%20Healthcare%20Industry.pdf)
+👉 [**Download / Read the PDF**](https://github.com/AppyDange/strategy_analysis_ai_healthcare_industry/blob/main/Team5_FP8_11302025%20(1).pdf)
 
 
 
